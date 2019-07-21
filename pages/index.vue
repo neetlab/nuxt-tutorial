@@ -7,6 +7,10 @@
       </h1>
       <h2 class="subtitle">
         My first nuxt app
+
+        <nuxt-link to="/page2">
+          Here's another page
+        </nuxt-link>
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
